@@ -63,6 +63,9 @@ crashlytics-build.properties
 # VS Code
 .vscode/
 
+# Addons
 Assets/Plugins/Demigiant/
 Assets/Resources/DOTweenSettings.asset
 Assets/Resources/DOTweenSettings.asset.meta
+Assets/Addons/Pixel Arsenal/
+Assets/Addons/SunnyLand Artwork/
